@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dschug1
 - 👀 I’m interested in mathematical programming and machine learning applications
 - 🌱 I’m currently learning DNN/CNN
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on
 - 📫 Contact at daschug1@gmail.com
 
 <!---
